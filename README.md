@@ -2,7 +2,7 @@ Weather App using React, React Material UI, Redux, Class Component/Functional Co
 
 #Project description
 
-!.[Result].(react-material/public/assets/images/recorder.gif)
+![Result](react-material/public/assets/images/recorder.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
