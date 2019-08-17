@@ -1,8 +1,8 @@
 Weather App using React, React Material UI, Redux, Class Component/Functional Component/Styled Component and weather apis.
 
 #Project description
-The project is for MBTI test. There are ten questions and users should answer all questions and send answers with his/her email address. And user can get the result saying his/her perspective.
-!.[My image].(weather-app-with-React-Material-UI/react-material/public/assets/images/recorder.gif)
+
+!.[Result].(react-material/public/assets/images/recorder.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
